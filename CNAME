@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Amar is best for u dear Raima
+    </p>
+    <div class="img"><img src="12.jpg" alt="" style="height: 619px;width: 385px;"></div>
+</body>
+</html>
+.a
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+body{
+    background: url("images.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+  body {
+    color: white;
+    text-align: center;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="htmk.css">
+<body>
+
+    <h2 style="text-align: center;">Check your future partner </h2>
+<div class="a">
+<form action="un.html">
+  <label for="fname">Your Name</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname">age</label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <input type="submit" value="Submit">
+</form> 
+</div>
+
+<p>“The best love is the kind that awakens the soul; that makes us reach for more, that plants the fire in our hearts and brings peace to our minds .</p>
+
+</body>
+</html>
+
+
+i=5;
+if_
